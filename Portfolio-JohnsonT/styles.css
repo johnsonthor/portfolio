@@ -1,0 +1,8 @@
+body{background-color: lightskyblue; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; padding-left: 2%;padding-right: 2%;}
+header{text-align: center;}
+h2{text-align: center; background-color: navy;color:white}
+h4{text-align: center;}
+.collection>article{background-color: #267DDF;}
+.collection>article>img{width: 40rem; padding: 3rem 3rem 3rem 3rem; vertical-align: center; align-items: center;}
+.collection>iframe{width:40rem; align-items: center;}
+.contact>p{text-align: center;}
