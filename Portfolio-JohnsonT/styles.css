@@ -1,6 +1,6 @@
 body{background-color: lightskyblue; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; padding-left: 2%;padding-right: 2%;}
 header{text-align: center;}
-h2{text-align: center; background-color: navy;color:white}
+h2{text-align: center; background-color: #004AAD;color:white}
 h4{text-align: center;}
 .collection>article{background-color: #267DDF;}
 .collection>article>img{width: 40rem; padding: 3rem 3rem 3rem 3rem; vertical-align:middle; align-items:center;}
@@ -16,3 +16,4 @@ iframe{width:40rem; align-items:baseline;padding-bottom: 3rem;}
     iframe{width: 40%;; align-items:center;padding: 2rem 2rem 2rem 2rem; padding-left: 28%;}
     
 }
+img{width: 20%;align-items: center;}
